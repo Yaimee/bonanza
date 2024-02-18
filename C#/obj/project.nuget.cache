@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+VS5cTo5Giopu0VdtkgkPFMTYaZi06Fh046oNBZWIetCbkwobgV9GQsxFfs5GHCKBM99jd0qthb6xrF5ed5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasmus\\Documents\\system-integration\\projects\\bonanza\\C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasmus\\.nuget\\packages\\csvhelper\\31.0.0\\csvhelper.31.0.0.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\yamldotnet\\15.1.1\\yamldotnet.15.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
